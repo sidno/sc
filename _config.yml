@@ -1,8 +1,8 @@
 # Site settings
 title: Sydney Chin
 description: A Resume Site
-# baseurl: "/particle" # the subpath of your site, e.g. /blog
-# url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+# baseurl: "/home" # the subpath of your site, e.g. /blog
+# url: "https://sidno.github.io/particle/" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
 username: Anon Developer
